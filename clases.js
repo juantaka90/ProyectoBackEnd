@@ -115,5 +115,3 @@ async function ejecutarContenedora() {
 };
 
 ejecutarContenedora();
-
-module.exports = Contenedor;
